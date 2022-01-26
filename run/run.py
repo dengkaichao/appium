@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 import sys
-sys.path.append('C:\\Users\\dkc\\.jenkins\\workspace\\appium')
+sys.path.append('C:\\Users\\dkc\\.jenkins\\workspace\\android-ui-automation')
 
 #coding=utf-8
 import unittest
